@@ -59,3 +59,4 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Using code from this class example: https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/WebSocketsExamples/chat.py
